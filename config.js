@@ -89,7 +89,7 @@ var config = {
             image: 'https://i.ibb.co/gFcJ6tjM/MEF-AAP-027-BAP-2025-07-04-12-04-20.png',
             description: '',
             location: {
-                center: [29.046,40.903],
+                center: [29.054,40.878],
                 zoom: 16,
                 pitch: 65,
                 bearing: 0
