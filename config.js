@@ -81,6 +81,36 @@ var config = {
                 // }
             ]
             },
+         {
+            id: '2.1',
+            alignment: 'left',
+            hidden: false,
+            title: '',
+            image: '',
+            description: '',
+            location: {
+                center: [29.046,40.903],
+                zoom: 15,
+                pitch: 65,
+                bearing: 0
+            },
+            mapAnimation: 'flyTo',
+            rotateAnimation: false,
+            callback: '',
+            onChapterEnter: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 1,
+                //     duration: 5000
+                // }
+            ],
+            onChapterExit: [
+                // {
+                //     layer: 'layer-name',
+                //     opacity: 0
+                // }
+            ]
+            },
         {
             id: '3',
             alignment: 'right',
